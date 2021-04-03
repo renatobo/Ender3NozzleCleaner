@@ -22,6 +22,11 @@ PETG is quite stringy and having strings of filament on your first layer is quit
 
 ![nozzle cleaner](nozzle_cleaner.png)
 
+In action:
+
+* [Overall](https://youtu.be/dVcODpnYj88)
+* [Closeup](https://youtu.be/zQN17WtxQjo)
+
 ## Tip: Klipper Macro for G12
 
 A good option is to define the cleaning code as G12 and use a macro in klipper.
