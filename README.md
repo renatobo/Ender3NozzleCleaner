@@ -1,5 +1,5 @@
 # Ender3NozzleCleaner
-Easy and automatic nozzle cleaning for and Ender 3 Pro with an inexpensive brush.
+Easy and automatic nozzle cleaning for an Ender 3 Pro with an inexpensive brush.
 
 PETG is quite stringy and having strings of filament on your first layer is quite annoying. To avoid babysitting each print, I looked at a couple of designs on thingiverse but none really worked well for an Ender 3 Pro.
 
